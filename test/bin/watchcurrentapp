@@ -1,0 +1,2 @@
+cd ../
+./node_modules/@angular/cli/bin/ng build currentapp --watch --aot=false
