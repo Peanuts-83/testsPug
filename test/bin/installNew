@@ -1,3 +1,4 @@
 cd ../
 rm -rf ./node_modules
+rm ./ng-add-pug-loader.js
 yarn
